@@ -1,12 +1,12 @@
 WIP
 
 **Jak nainstalovat:**
-https://inscryptionmodding.github.io/InscryptionAPI/wiki/getting_started.html
-[Stáhni JSONCardLoader](https://thunderstore.io/c/inscryption/p/MADH95Mods/JSONCardLoader/)
-Stáhni tohle repo
-V Thunderstore klikni na nastavení -> Browse profile folder -> BepInEx -> Plugins -> Vytvoř složku (Třeba CestinaDoZapisu) -> Hoď tam soubory "czech_language.jldr2", "cs_fonts", "strings.csv"
-Spusť Inscryption
-Přepni na češtinu
+- [Přečti si tohle](https://inscryptionmodding.github.io/InscryptionAPI/wiki/getting_started.html)
+- [Stáhni JSONCardLoader](https://thunderstore.io/c/inscryption/p/MADH95Mods/JSONCardLoader/)
+- Stáhni tohle repo
+- V Thunderstore klikni na nastavení -> Browse profile folder -> BepInEx -> Plugins -> Vytvoř složku (Třeba CestinaDoZapisu) -> Hoď tam soubory "czech_language.jldr2", "cs_fonts", "strings.csv"
+- Spusť Inscryption
+- Přepni na češtinu
 
 Fonty:
 
