@@ -2,7 +2,7 @@
     "languageName": "Czech",
     "languageCode": "cs",
     "resetButtonText": "Restartovat",
-    "stringTablePath": "strings.csv",
+    "stringTablePath": "derk.csv",
     "fontReplacementPaths": [
         {
             "Type": "Liberation",
