@@ -1,0 +1,38 @@
+{
+    "languageName": "Czech",
+    "languageCode": "cs",
+    "resetButtonText": "Restartovat",
+    "stringTablePath": "strings.csv",
+    "fontReplacementPaths": [
+        {
+            "Type": "Liberation",
+            "AssetBundlePath": "cs_fonts",
+            "FontAssetName": "comic",
+            "TMPFontAssetName": "TMP_comic"
+        },
+        {
+            "Type": "Marksman",
+            "AssetBundlePath": "cs_fonts",
+            "FontAssetName": "comic",
+            "TMPFontAssetName": "TMP_comic"
+        },
+        {
+            "Type": "Misc3D",
+            "AssetBundlePath": "cs_fonts",
+            "FontAssetName": "comic",
+            "TMPFontAssetName": "TMP_comic"
+        },
+        {
+            "Type": "DaggerSquare",
+            "AssetBundlePath": "cs_fonts",
+            "FontAssetName": "comic",
+            "TMPFontAssetName": "TMP_comic"
+        },
+        {
+            "Type": "HeavyWeight",
+            "AssetBundlePath": "cs_fonts",
+            "FontAssetName": "comic",
+            "TMPFontAssetName": "TMP_comic"
+        }
+    ]
+}
